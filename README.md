@@ -1,0 +1,2 @@
+# Text-Complexity-Classification
+The goal of our project is to build a classifier that can identify text complexity with three readability levels for people who feel hard to understand to read texts in English to some extent, especially language learners. We also tested the hypothesis that clustering texts based on their topics can improve the performance on the text complexity classification because of the pertinence.
